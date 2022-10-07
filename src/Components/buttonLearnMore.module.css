@@ -1,0 +1,14 @@
+.buttonLM {
+  width: 100%;
+  background:none;
+  border: 2px solid #6F536F;
+  border-radius:7px;
+  padding: 0.75rem 0;
+  cursor: pointer;
+}
+
+.buttonLM:hover{
+  background-color:#6F536F;
+  color: white;
+  transition: 0.3s;
+}
